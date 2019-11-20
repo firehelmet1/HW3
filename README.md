@@ -1,6 +1,6 @@
 ##PyBank
 
-![Revenue](Images/revenue-per-lead.png)
+![Revenue](images/revenue-per-lead.png)
 
 * I have created a Python script for analyzing the financial records of a bank "PyBank". I utilized a sample dataset  [budget_data.csv]. The dataset is composed of two columns: `Date` and `Profit/Losses`. 
 
@@ -29,7 +29,7 @@ The Python script performs the following analysis:
 
 ## PyPoll
 
-![Vote-Counting](Images/Vote_counting.png)
+![Vote-Counting](images/Vote_counting.png)
 
 * I have taken a set of poll data called [election_data.csv](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. I created a Python script that analyzes the votes and calculates each of the following:
 
