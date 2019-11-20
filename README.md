@@ -1,4 +1,4 @@
-##PyBank
+## PyBank
 
 ![Revenue](images/revenue-per-lead.png)
 
