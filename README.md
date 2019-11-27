@@ -57,4 +57,5 @@ The Python script performs the following analysis:
   -------------------------
   ```
 
-
+## Code Execution
+In Gitbash or CLI, type: python pypoll.py or python pybank.py
